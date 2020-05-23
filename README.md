@@ -20,7 +20,16 @@
 # Java Script
 
 1. Javascript Algorithms <https://github.com/trekhleb/javascript-algorithms>
-2. Create React App <https://github.com/facebook/create-react-app>
+
+### React
+
+1. Create React App <https://github.com/facebook/create-react-app>
+
+
+`npx create-react-app my-app`<br>
+`cd my-app`<br>
+`npm start`<br>
+
 
 
 # Go
