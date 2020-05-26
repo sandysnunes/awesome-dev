@@ -34,6 +34,9 @@
 `yarn add react-router-dom`
 
 
+2. React Developer Tools - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+
 
 # Go
 
