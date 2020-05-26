@@ -28,7 +28,10 @@
 
 `npx create-react-app my-app`<br>
 `cd my-app`<br>
-`npm start`<br>
+`yarn start`<br><br>
+
+`yarn add axios`<br>
+`yarn add react-router-dom`
 
 
 
@@ -79,6 +82,13 @@
 
 
 # Books
+
+- Refactoring: Improving the Design of Existing Code - Martin Fowler
+- Code Complete - Steve McConnell
+- The Mythical Man-Month - Frederick Brooks
+- Enterprise Integration Patterns - Gregor Hohpe
+- Patterns of Enterprise Application Architecture - Martin Fowler
+- Design Patterns: Elements of Reusable Object-Oriented Software - Eric Gamma
 
 
 # Design Patterns
