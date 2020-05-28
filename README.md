@@ -102,6 +102,13 @@
 
 1. The Art of Command Line
  <https://github.com/jlevy/the-art-of-command-line>
+
+ 2. Bash tricks <https://javarevisited.blogspot.com/2018/07/10-tips-on-working-fast-in-unix-or-linux.html>
  
 
- # cheat sheets
+ # Cheat Sheets
+
+
+ # Emoji MAP  😄 :smile: 😆 :laughing: 😊 :blush: 😃 :smiley:  😏 :smirk: 😍 :heart_eyes: 😘 :kissing_heart: 😚 :kissing_closed_eyes: 😳 :flushed:
+
+ 1. https://gist.github.com/rxaviers/7360908
