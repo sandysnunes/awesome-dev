@@ -45,6 +45,7 @@
 1. Wire - Dependency Injection <https://github.com/google/wire>
 2. Gin Gonic - Web framework <https://gin-gonic.com/>
 3. Excelize - Read and Write XLSX files <https://github.com/360EntSecGroup-Skylar/excelize>
+4. gqlgen - Go library for building GraphQL servers<https://github.com/99designs/gqlgen>
 
 
 ### Interesting Go Repositories
