@@ -60,6 +60,16 @@ A collection of tools, links and commands useful for the developer's day-to-day.
 6. Go Patterns <https://github.com/tmrts/go-patterns>
 7. Popular Repositories <https://github.com/kaxap/arl/blob/master/README-Go.md>
 
+### Interesting websites talking about Go
+
+1. Go by Example <https://gobyexample.com/>
+2. Effective Go <https://golang.org/doc/effective_go.html>
+3. Dave Cheney <https://dave.cheney.net/>
+4. 50 Shades of Go <http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/>
+5. Java to Go in-depth tutorial <https://yourbasic.org/golang/go-java-tutorial/>
+
+
+
 # APIs
 
 1. Public APIs <https://github.com/public-apis/public-apis>
