@@ -1,5 +1,7 @@
 # awesome-dev
 
+A collection of tools, links and commands useful for the developer's day-to-day.
+
 # Developer
 
 1. Developer Roadmap <https://github.com/kamranahmedse/developer-roadmap>
