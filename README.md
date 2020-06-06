@@ -115,3 +115,12 @@ A collection of tools, links and commands useful for the developer's day-to-day.
  # Emoji MAP  😄 :smile: 😆 :laughing: 😊 :blush: 😃 :smiley:  😏 :smirk: 😍 :heart_eyes: 😘 :kissing_heart: 😚 :kissing_closed_eyes: 😳 :flushed:
 
  1. https://gist.github.com/rxaviers/7360908
+
+
+# Blogs
+
+1. Java Revisited <http://javarevisited.blogspot.com/>
+2. Baeldung <https://www.baeldung.com/>
+3. Java 67 <https://www.java67.com/>
+4. Martin Fowler <https://martinfowler.com/>
+5. Clean Coder <https://blog.cleancoder.com/>
