@@ -105,6 +105,8 @@ A collection of tools, links and commands useful for the developer's day-to-day.
 - Enterprise Integration Patterns - Gregor Hohpe
 - Patterns of Enterprise Application Architecture - Martin Fowler
 - Design Patterns: Elements of Reusable Object-Oriented Software - Eric Gamma
+- Java Effective - Joshua Bloch
+ ( <https://github.com/jbloch/effective-java-3e-source-code> )
 
 
 # Design Patterns
