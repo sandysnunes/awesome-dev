@@ -7,8 +7,11 @@ A collection of tools, links and commands useful for the developer's day-to-day.
 1. Developer Roadmap <https://github.com/kamranahmedse/developer-roadmap>
 
 # Tools
-
 1.
+
+# Architecture
+
+1. Clean Architecture Java - <https://github.com/mattia-battiston/clean-architecture-example>
 
 ### JSON
 
